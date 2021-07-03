@@ -7,3 +7,4 @@ C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.csproj.Gen
 C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.csproj.CoreCompileInputs.cache
 C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.exe
 C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.pdb
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.Form1.resources
