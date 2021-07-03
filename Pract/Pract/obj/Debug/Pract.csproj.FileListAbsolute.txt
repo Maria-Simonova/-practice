@@ -1,0 +1,9 @@
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\bin\Debug\Pract.exe.config
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\bin\Debug\Pract.exe
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\bin\Debug\Pract.pdb
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.csprojAssemblyReference.cache
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.Properties.Resources.resources
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.csproj.GenerateResource.cache
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.csproj.CoreCompileInputs.cache
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.exe
+C:\Users\msimo\Documents\GitHub\-practice\Pract\Pract\obj\Debug\Pract.pdb
